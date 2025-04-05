@@ -1,9 +1,17 @@
-CS50AI Week 0 Project
-Runner.py code is from the course and I didn't code any part of that file
-tictactoe.py is where I did most of my code
-There are surely many optimizations that can be done here I figured but, 
-I wanted to push this as it somewhat fascinated me on how I (yes me) coded an AI to play against me, 
-Although I do understand the minimax algorithm quite well, it's still fascinating that I could do this mostly on my own 
-following the lectures and hints from the CS50AI course page. 
-As a kid playing games, AI in games always fascinated me and I thought they would be so so complex that I would never be able to wrap my head around it, 
-I am 100% sure some are, but just completeing the minimax has given me hope that I can continue learning even more!
+# CS50AI Week 0 Project – Tic Tac Toe
+
+> **Note:** The `runner.py` file is provided by the course. I did not write any part of it.  
+> All of my work is in `tictactoe.py`.
+
+---
+
+There are surely many optimizations that can be made here, but I wanted to push this version as it really fascinated me—  
+**I actually wrote an AI that can play against me!**
+
+While I now understand the minimax algorithm fairly well, it’s still surreal that I could build something like this mostly on my own,  
+just by following the lectures and some guidance from the CS50AI course page.
+
+As a kid, I was always amazed by the AI in games and thought it was far too complex for me to ever understand.  
+I’m sure some of it *is* incredibly complex—but completing this project has given me hope and confidence that I can keep learning and go even further.
+
+---
